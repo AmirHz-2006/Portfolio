@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap");
+/* gesamte Steile */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Vazirmatn", "sans-serif";
+    scroll-behavior: smooth;
+}
+
+body{
+    color: black;
+    background-color: white;
+}
