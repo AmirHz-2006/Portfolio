@@ -221,3 +221,44 @@ a {
     border-radius: 50%;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
+/* Über mich-Teil */
+ .about {
+    padding: 50px 0;
+    background-color: #ffffff;
+}
+
+.about-content {
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+}
+
+.about-text {
+    flex: 1;
+}
+
+.about-text p {
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+
+.about-info {
+    margin-top: 2rem;
+}
+
+.info-item {
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.info-label {
+    font-weight: 600;
+    width: 100px;
+    color: #2c2c2c;
+}
+
+.info-value {
+    color: #777777;
+}
